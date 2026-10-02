@@ -1,0 +1,6 @@
+# Python dependencies for Tergent
+python-dotenv
+langchain
+langchain-community
+ollama
+python-dotenv
